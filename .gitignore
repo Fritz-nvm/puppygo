@@ -13,6 +13,7 @@ pip-log.txt
 # Django generated files
 *.log
 db.sqlite3
+media/
 staticfiles/
 
 # Ignore the local settings file
